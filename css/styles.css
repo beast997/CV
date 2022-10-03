@@ -18,8 +18,8 @@ body {
 
 .bottomcloud {
   position: absolute;
-  top: 500px;
-  left: 300px;
+  top: 400px;
+  left: 200px;
 }
 
 .bottom-container {
@@ -93,14 +93,16 @@ hr {
   margin: 100px auto;
 }
 
-/* .mountain{
-  padding-bottom:50px;
-} */
+.mountain{
+  position: relative;
+  bottom: 60px;
+}
 .topcontainer {
   background-color: #E4F9F5;
   position: relative;
   padding: 50px 0 0 0;
   margin-bottom: 80px;
+  height: 620px;
 }
 
 .topcloud {
